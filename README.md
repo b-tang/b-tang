@@ -1,2 +1,3 @@
 ### Hi there, my name is Brian 👋 
-- test
+- 20 years old 
+- Software Developer
