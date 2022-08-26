@@ -4,3 +4,4 @@
 [![Twitch Badge](https://img.shields.io/badge/-Brozty-purple?style=flat&logo=Twitch&logoColor=6441a5&link=https://www.twitch.tv/brozty)](https://www.twitch.tv/brozty)
 [![Instagram Badge](https://img.shields.io/badge/-br1antang-yellow?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/br1antang)](https://www.instagram.com/br1antang)
 - 20 years old
+- Full-time student
