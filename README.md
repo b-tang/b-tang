@@ -5,3 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-br1antang-yellow?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/br1antang)](https://www.instagram.com/br1antang)
 - 21 years old
 - Full-time student
+
+
+![](https://komarev.com/ghpvc/?username=b-tang)
