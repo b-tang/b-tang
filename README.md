@@ -7,4 +7,4 @@
 - Full-time student
 
 
-![](https://komarev.com/ghpvc/?username=b-tang)
+![](https://komarev.com/ghpvc/?username=b-tang&style=for-the-badge)
