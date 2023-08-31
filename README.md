@@ -8,4 +8,4 @@
 - Full-time student
 
 #
-![](https://komarev.com/ghpvc/?username=b-tang&style=for-the-badge&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=b-tang&style=for-the-badge&color=ff80ed)
