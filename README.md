@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-833AB4?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/briantanggg)](https://www.instagram.com/briantanggg)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-F5F8FA?style=flat&logo=Twitter&logoColor=1DA1F2&link=https://www.x.com/briantangg)](https://www.x.com/briantangg)
 - 22 years old
-- Full-time student
+- Computer Science Graduate at California State University, Los Angeles
 
 #
 ![](https://komarev.com/ghpvc/?username=b-tang&style=for-the-badge&color=ff80ed)
