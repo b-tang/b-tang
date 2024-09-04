@@ -23,8 +23,7 @@ interests:
     "Game Development"
   }
 hobbies: ["Gaming", "Cinema", "Music"]
-currently_learning: [""]
-2024 Goals: ["Create more projects, unlimited possibilities. The world is yours."]
+2024 Goals: ["Create more projects. Unlimited possibilities, the world is yours."]
 ```
 
 <h2> 🚀 Some Tools I Have Used and Learned </h2>
