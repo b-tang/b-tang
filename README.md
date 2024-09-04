@@ -12,6 +12,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" alt="bootstrap" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg" alt="bootstrap" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="bootstrap" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="bootstrap" width="45" height="45"/>
 </p>
 
 #
