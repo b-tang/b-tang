@@ -18,6 +18,7 @@
 <img src="https://devicon-website.vercel.app/api/filezilla/plain.svg" alt="filezilla" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg" alt="docker" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="45" height="45"/>
 </p>
 
 #
