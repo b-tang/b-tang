@@ -20,6 +20,7 @@
 <img src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg" alt="docker" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/unity/original.svg" alt="unity" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" alt="dotnetcore" width="45" height="45"/>
 </p>
 
 #
