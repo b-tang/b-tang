@@ -4,7 +4,7 @@
 - 22 years old
 - Computer Science Graduate at California State University, Los Angeles
 
-<h2> 🚀 Some Tools I Have Used and Learned</h2>
+<h2> Some Tools I Have Used and Learned 🚀 </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
@@ -19,7 +19,7 @@
 <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg" alt="docker" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/unity/original.svg" alt="unity" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23FFFFFF" alt="unity" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" alt="dotnetcore" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/pycharm/original.svg" alt="pycharm" width="45" height="45"/>
 </p>
