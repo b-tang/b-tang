@@ -5,4 +5,4 @@
 - Computer Science Graduate at California State University, Los Angeles
 
 #
-![](https://komarev.com/ghpvc/?username=b-tang&style=for-the-badge&color=ff80ed)
+![](https://komarev.com/ghpvc/?username=b-tang&style=for-the-badge&color=00FFFF)
