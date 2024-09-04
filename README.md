@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&textBg=false&animation=fadeIn&reversal=false
 ## 👋 Hi there, my name is Brian! 
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&labelColor=000000&link=https://github.com/b-tang)](https://github.com/b-tang)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/briantang01/)](https://www.linkedin.com/in/briantang01/)
