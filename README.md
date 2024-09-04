@@ -27,7 +27,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tang&show_icons=true&theme=github_dark)
 
-#
 ![](https://komarev.com/ghpvc/?username=b-tang&style=for-the-badge&color=00FFFF)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&animation=fadeIn&reversal=true&section=footer)
