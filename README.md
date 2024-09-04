@@ -3,8 +3,10 @@
 ## 👋 Hi there, my name is Brian! 
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&labelColor=000000&link=https://github.com/b-tang)](https://github.com/b-tang)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/briantang01/)](https://www.linkedin.com/in/briantang01/)
+```yaml
 - 22 years old
 - Computer Science Graduate at California State University, Los Angeles
+```
 
 <h2> 🚀 Some Tools I Have Used and Learned </h2>
 <p align="left">
