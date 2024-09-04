@@ -8,19 +8,20 @@
 name: Brian Tang
 age: 22 years old
 located_in: Los Angeles, California
-education:
-  {
-    "BS in Computer Science at California State University, Los Angeles"
-  }
 background:
   {
     "Frontend Developer @ QTC Management, Inc. · Internship"
+  }
+education:
+  {
+    "BS in Computer Science at California State University, Los Angeles"
   }
 interests:
   {
     "Software Engineer"
     "Frontend Web Development"
     "Game Development"
+    "IT"
   }
 hobbies: ["Gaming", "Cinema", "Music"]
 2024 Goals: ["Create more projects. Unlimited possibilities, the world is yours."]
