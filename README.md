@@ -5,40 +5,26 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/briantang01/)](https://www.linkedin.com/in/briantang01/)
 
 ```yaml
-- 22 years old
-- Computer Science Graduate at California State University, Los Angeles
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Brian Tang
+age: 22 years old
+located_in: Los Angeles, California
 education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
+  {
+    "BS in Computer Science at California State University, Los Angeles"
+  }
+background:
+  {
+    "Frontend Developer @ QTC Management, Inc. · Internship"
+  }
+interests:
+  {
+    "Software Engineer"
+    "Frontend Web Development"
+    "Game Development"
+  }
 currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+2024 Goals: ["Create more projects"]
+hobbies: ["Gaming", "Cinema", "Music"]
 ```
 
 <h2> 🚀 Some Tools I Have Used and Learned </h2>
