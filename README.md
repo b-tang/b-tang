@@ -54,3 +54,5 @@ currently_learning: ["Docker, Kubernetes, and React Native"]
 ![](https://komarev.com/ghpvc/?username=b-tang&style=for-the-badge&color=00FFFF)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&animation=fadeIn&reversal=true&section=footer)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
