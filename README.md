@@ -8,6 +8,7 @@
 name: Brian Tang
 age: 22 years old
 located_in: Los Angeles, California
+hobbies: ["Gaming", "Cinema", "Music"]
 education:
   {
     "BS in Computer Science at California State University, Los Angeles"
@@ -24,7 +25,6 @@ interests:
   }
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create more projects"]
-hobbies: ["Gaming", "Cinema", "Music"]
 ```
 
 <h2> 🚀 Some Tools I Have Used and Learned </h2>
