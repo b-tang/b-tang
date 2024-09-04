@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
+<img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" alt="bootstrap" width="45" height="45"/>
 </p>
 
 #
