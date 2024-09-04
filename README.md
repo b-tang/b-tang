@@ -24,7 +24,7 @@
 <img src="https://devicon-website.vercel.app/api/pycharm/original.svg" alt="pycharm" width="45" height="45"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tang)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 #
 ![](https://komarev.com/ghpvc/?username=b-tang&style=for-the-badge&color=00FFFF)
