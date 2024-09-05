@@ -14,7 +14,7 @@ background:
   }
 education:
   {
-    "BS in Computer Science at California State University, Los Angeles"
+    "BS in Computer Science @ California State University, Los Angeles"
   }
 interests:
   {
