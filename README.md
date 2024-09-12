@@ -19,12 +19,12 @@ education:
 interests:
   {
     "Software Engineer"
-    "Frontend Web Development"
+    "Frontend Development"
     "Game Development"
-    "IT"
+    "IT Specialists/Technician"
   }
 hobbies: ["Gaming", "Cinema", "Music"]
-2024 Goals: ["Create more projects. Unlimited possibilities, the world is yours."]
+2024 Goals: ["Create many more projects. Unlimited possibilities, the world is yours."]
 ```
 
 <h2> 🚀 Some Tools I Have Used and Learned </h2>
