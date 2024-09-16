@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&labelColor=000000&link=https://github.com/b-tang)](https://github.com/b-tang)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/briantang01/)](https://www.linkedin.com/in/briantang01/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=X&logoColor=FFFFFF&labelColor=000000&link=https://www.x.com/briantangg)](https://www.x.com/briantangg)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-F5F8FA?style=flat&logo=Twitch&logoColor=6441a5&link=https://www.twitch.tv/brozty)](https://www.twitch.tv/briantang)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-262626?style=flat&logo=Twitch&logoColor=6441a5&labelColor=f1f1f1&link=https://www.twitch.tv/brozty)](https://www.twitch.tv/briantang)
 
 ```yaml
 name: Brian Tang
