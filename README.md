@@ -52,6 +52,7 @@ hobbies: ["Gaming", "Cinema", "Music"]
   <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" alt="tailwindcss" width="45" height="45"/>
   <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" alt="nextjs" width="45" height="45"/>
   <img src="https://devicon-website.vercel.app/api/django/plain.svg?color=%2315B477" alt="django" width="45" height="45"/>
+  <img src="https://devicon-website.vercel.app/api/anaconda/original.svg" alt="anaconda" width="45" height="45"/>
 </p>
 
 #
