@@ -34,11 +34,13 @@ hobbies: ["Gaming", "Cinema", "Music"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="css3" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
   <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" alt="mysql" width="45" height="45"/>
   <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" alt="postgresql" width="45" height="45"/>
   <img src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg" alt="azure" width="45" height="45"/>
   <img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="csharp" width="45" height="45"/>
+  <img src="https://devicon-website.vercel.app/api/c/original.svg" alt="c" width="45" height="45"/>
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://devicon-website.vercel.app/api/filezilla/plain.svg" alt="filezilla" width="45" height="45"/>
   <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" alt="python" width="45" height="45"/>
