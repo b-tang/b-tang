@@ -56,10 +56,13 @@ hobbies: ["Gaming", "Cinema", "Music"]
   <img src="https://devicon-website.vercel.app/api/photoshop/plain.svg" alt="photoshop" width="45" height="45"/>
 </p>
 
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-tang&show_icons=true&theme=github_dark)
+<br>
 
-#
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=b-tang&show_icons=true&theme=github_dark" alt="Brian's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-tang&layout=compact&theme=github_dark" /></a> |
+| ------------- | ------------- |
+
+<br>
+
 ![](https://komarev.com/ghpvc/?username=b-tang&style=for-the-badge)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&animation=fadeIn&reversal=true&section=footer)
