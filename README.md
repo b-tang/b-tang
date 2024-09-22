@@ -23,7 +23,7 @@ interests:
     "Software Engineer"
     "Frontend Development"
     "Game Development"
-    "IT Specialists/Technician"
+    "IT Desktop/Support Specialists/Technician"
   }
 hobbies: ["Gaming", "Cinema", "Music"]
 2024 Goals: ["Create many more projects. Unlimited possibilities, the world is yours."]
