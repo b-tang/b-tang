@@ -8,7 +8,7 @@
 
 ```yaml
 name: Brian Tang
-age: 22 years old
+age: 23 years old
 located_in: Los Angeles, California
 background:
   {
