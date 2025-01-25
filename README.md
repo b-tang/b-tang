@@ -8,9 +8,9 @@
 <!-- [![Twitch Badge](https://img.shields.io/badge/-Twitch-262626?style=flat&logo=Twitch&logoColor=6441a5&labelColor=f1f1f1&link=https://www.twitch.tv/brozty)](https://www.twitch.tv/briantang) -->
 
 ```yaml
-name: Brian Tang
-age: 23 years old
-located_in: Los Angeles, California
+name: "Brian Tang"
+age: 23
+located_in: "Los Angeles, California"
 background:
   {
     "Frontend Developer @ QTC Management, Inc. · Internship"
