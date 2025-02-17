@@ -27,7 +27,6 @@ interests:
     "IT Desktop/Support Specialists/Technician"
   }
 hobbies: ["Gaming", "Cinema", "Music"]
-2024 Goals: ["Create many more projects. Unlimited possibilities, the world is yours."]
 ```
 
 <h2> 🚀 Some Tools I Have Used and Learned </h2>
